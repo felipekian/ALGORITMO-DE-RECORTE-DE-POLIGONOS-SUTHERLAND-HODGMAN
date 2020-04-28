@@ -47,10 +47,9 @@ Funcao sutherland recebe a lista de vértices do poligono:
 fim funcao
 ```
 
+## [_*CÓDIGO FONTE*_](https://github.com/felipekian/computacaoGrafica_recorte_sutherland-hodgman/tree/master/C%C3%B3digo%20Fonte)
 
-## [_*CÓDIGO FONTE*_]()
-
-
+## [_*TRABALHO ESCRITO*_](https://github.com/felipekian/computacaoGrafica_recorte_sutherland-hodgman/tree/master/Trabalho%20Escrito)
 
 ## IMAGENS DO PROGRAMA DE RECORTE DE POLÍGONOS
 
